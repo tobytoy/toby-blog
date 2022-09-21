@@ -1,2 +1,0 @@
-# toby-blog
-my blog.
