@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://tobytoy.github.io/toby-blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -97,9 +97,14 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+# theme: landscape    # old theme
+theme: next
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/tobytoy/toby-blog      # https://github.com/<username>/<project>
+  branch: gh-pages # 在這邊我是使用 mster 當作主要分支
+  message: 'my blog'
