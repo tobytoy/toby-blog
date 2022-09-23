@@ -103,8 +103,14 @@ theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+# Branch  Default : gh-pages (GitHub) 
+#                   coding-pages (Coding.net)
+#                   master (others)
+# message Default : Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}
+
 deploy:
   type: git
   repo: https://github.com/tobytoy/toby-blog      # https://github.com/<username>/<project>
-  branch: gh-pages # 在這邊我是使用 mster 當作主要分支
-  message: 'my blog'
+  branch: gh-pages                                # 在這邊我是使用 master 當作主要分支
+  message: "My Blog Updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
+
