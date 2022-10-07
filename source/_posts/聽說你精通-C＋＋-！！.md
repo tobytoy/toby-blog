@@ -39,9 +39,13 @@ int main() {
 ---
 
 <center>我的座右銘</center>
-本人擅長 Ai、Fw、Fl、Ae、Pr、Id、PS 等軟件的安裝與卸載，
-精通 PHP、 CSS、 JavaScript、 C、 C＋＋、 C#、 java、 Ruby、 Perl、 python、 Objective-C、 ActionScript 等單詞的拼寫，
-專精 windows、Linux、Mac、Android、IOS 等系統的開關機。
+本人擅長 Ai、Fw、Fl、Ae、Pr、Id、PS、GSP、GeoGebra、Matlab、Maple、Mathematica 等商用軟件的安裝與卸載，
+精通 Basic、CSS、C、C＋＋、C#、GO、HTML、Java、JavaScript、Kotlin、Objective-C、Perl、Python、PHP、Ruby、Scala、Swift、VB 等程式語言單詞的拼寫，
+專業 MySQL、Postgre SQL、InfluxDB、Elasticsearch、Loki、OpenTSDB、MongoDB、GraphQL、PromQL、Prometheus 等資料庫的口語朗讀，
+精熟 Power BI、Tableau、Data Studio、D3.js、Grafana、Kibana、Superset 等資料視覺化的 Logo 觀賞，
+極優 jQuery、Vue、React、Angular 等前端框架的字毛筆書寫，
+專精 Windows、FreeBSD、Linux、Debian、CentOS、Manjaro、Arch、Mac、Android、IOS、IPadOS 等系統的開關機，
+熟練 Docker、VMware、VirtualBox 等虛擬化技術的幻想。
 
 ---
 
